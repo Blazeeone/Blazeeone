@@ -1,14 +1,19 @@
-Soy Yoshua Castillo
-Estudiante de Analista Programador apasionado por crear soluciones tecnológicas, desde el código hasta el hardware. 
+# Hola, Soy Yoshua 
 
-- 💻 Actualmente trabajando en el stack **HTML/CSS, JavaScript, Node.js y MongoDB**.
-- 🚀 Construyendo una plataforma e-commerce desde cero y desarrollando una que otras cosas...
-- 🛠️ Siempre aprendiendo algo nuevo sobre modding de consolas o reparación de hardware
-- 🎮 En mis ratos libres: Rankeando en Valorant, jugando Minecraft o armando unos beats
+Soy estudiante de Analista Programador/Ingeniero Informatico, apasionado por crear soluciones tecnológicas integrales, desde la escritura de código hasta la manipulación de hardware.
 
-Contactarme en : yoshua.castillo@inacapmail.cl
+Me gusta entender cómo funcionan las cosas desde adentro, lo que me ha llevado a ganar experiencia práctica en soporte técnico, diagnóstico de componentes y modding de consolas. Soy una persona enfocada en la mejora continua, buscando siempre el equilibrio entre la lógica de la programación, la creatividad y el trabajo en equipo.
 
-### 🛠️ Mi Stack Tecnológico:
+**Trabajando en** una plataforma e-commerce desde cero y desarrollando de ves en cuando...
+**Actualmente estoy aprendiendo** a profundidad el stack de Node.js + MongoDB y técnicas de desbloqueo para diversas consolas.
+**En mis ratos libres** Rankeando en Valorant, De salida, Jugando Minecraft o armando unos beats.
+
+### Puedes contáctarme 📲
+yoshua.castillo@inacapmail.cl
+
+---
+
+### 🛠️ Mi Stack Tecnológico
 
 **Frontend:**
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -25,4 +30,3 @@ Contactarme en : yoshua.castillo@inacapmail.cl
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F00000?style=for-the-badge&logo=oracle&logoColor=white)
-

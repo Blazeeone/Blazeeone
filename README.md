@@ -26,4 +26,3 @@ Contactarme en : yoshua.castillo@inacapmail.cl
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F00000?style=for-the-badge&logo=oracle&logoColor=white)
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Blazeeone&show_icons=true&theme=tokyonight)](https://github.com/Blazeeone)

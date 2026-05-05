@@ -5,8 +5,11 @@ Soy estudiante de Analista Programador/Ingeniero Informatico, apasionado por cre
 Me gusta entender cómo funcionan las cosas desde adentro, lo que me ha llevado a ganar experiencia práctica en soporte técnico, diagnóstico de componentes y modding de consolas. Soy una persona enfocada en la mejora continua, buscando siempre el equilibrio entre la lógica de la programación, la creatividad y el trabajo en equipo.
 
 --**Trabajando en** una plataforma e-commerce desde cero y desarrollando de ves en cuando...
---**Actualmente estoy aprendiendo** a profundidad el stack de Node.js + MongoDB y técnicas de desbloqueo para diversas consolas.
---**En mis ratos libres** Rankeando en Valorant, De salida, Jugando Minecraft o armando unos beats.
+
+--**Actualmente estoy aprendiendo** a profundidad el stack de Node.js + MongoDB y técnicas de desbloqueo para diversas consolas
+
+--**En mis ratos libres** Rankeando en Valorant, De salida, Jugando Minecraft o armando unos beats
+
 
 ### Puedes contáctarme 📲
 yoshua.castillo@inacapmail.cl
